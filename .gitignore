@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.idea/
+Pipfile.lock
+
+drf_auth_demo/drf_auth_demo/settings/local.py
+
+drf_auth_demo/db.sqlite3
